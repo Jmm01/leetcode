@@ -188,6 +188,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="leetcode" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.lc686">
     <configuration name="intToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode_05.intToString" />
@@ -500,6 +506,10 @@
       <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="376" y="52" key="#test1/0.24.1366.744@0.24.1366.744" timestamp="1634118395220" />
+    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1640663608334">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1640663608334" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1640663196992">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -554,6 +564,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="72" y="12" width="916" height="716" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1632731895668" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1640663618497">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1640663618497" />
     <state x="363" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1640220312903">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
