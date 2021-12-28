@@ -40,7 +40,7 @@ public class test4 {
 
     public static void main(String[] args) {
         test4 t = new test4();
-        String[] strs = new String[]{"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"};
+        String[] strs = new String[]{"abc","bca","ccd","dcc","aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"};
         System.out.println(t.groupAnagrams(strs));
     }
 }

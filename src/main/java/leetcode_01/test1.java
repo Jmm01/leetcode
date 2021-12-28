@@ -35,11 +35,20 @@ class test1 {
     }
 
     public static void main(String[] args) {
-        test1 t = new test1();
-        int[] arr = new int[]{1,2,3,4};
-        int str = t.removeElement(arr,1);
-        System.out.println(str);
-        System.out.println(arr);
+//        test1 t = new test1();
+//        int[] arr = new int[]{1,2,3,4};
+//        int str = t.removeElement(arr,1);
+//        System.out.println(str);
+//        System.out.println(arr);
+        Object obj = null;
+
+        String str = null;
+        String str1 = "";
+        System.out.println("--"+str);
+        System.out.println("----"+str1.toString());
+//        System.out.println(obj.toString());
+        System.out.println((String)obj);
+        System.out.println(String.valueOf(obj));
 
     }
 }
