@@ -1,0 +1,197 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision f7d18235cce02001e45cf57c3ce9833b504dc04e)
++++ .idea/workspace.xml	(date 1641281617852)
+@@ -3,131 +3,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="0ceefe82-39c0-4a96-8ff6-af2b8c552f58" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/ListNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/Solution.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/TreeNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test1.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test10.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test11.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test12.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test13.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test14.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test15.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test16.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test17.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test18.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test19.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test2.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test20.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test21.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test22.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test23.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test24.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test25.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test26.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test27.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test28.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test29.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test3.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test30.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test4.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test5.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test6.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test7.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test8.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test9.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/ListNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/TreeNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test1.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test10.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test11.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test12$NumArray.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test12.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test13.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test14.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test15.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test16.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test17.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test18.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test19.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test2.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test20.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test21.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test22.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test23.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test24.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test25.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test26.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test27.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test28.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test29.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test3.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test30.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test4.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test5.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test6.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test7.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test8.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test9.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/ListNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/MinStack.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/TreeNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test1.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test10.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test11.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test12.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test13.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test14.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test15.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test16.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test17.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test18.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test19.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test2.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test20.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test21.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test22.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test23.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test24.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test25.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test26.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test27.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test28.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test29.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test3.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test30.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test4.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test5.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test6.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test7.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test8.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test9.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/Example.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/ListNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/MinStack.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/MyQueue.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/Solution.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/TreeNode.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test1.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test10.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test11.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test12.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test13.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test14.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test15.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test16.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test17.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test18.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test19.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test2.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test3.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test4.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test5.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test6.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test7.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test8.class" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test9.class" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -457,7 +332,7 @@
+       <workItem from="1640825163396" duration="2675000" />
+       <workItem from="1640855802837" duration="2962000" />
+       <workItem from="1640931606171" duration="529000" />
+-      <workItem from="1641257864920" duration="9263000" />
++      <workItem from="1641257864920" duration="9551000" />
+     </task>
+     <task id="LOCAL-00001" summary="leetcode练习">
+       <created>1621262827498</created>
+@@ -494,7 +369,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1640678046127</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="leetcode练习">
++      <created>1641281391889</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1641281391889</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -529,10 +411,10 @@
+       <screen x="0" y="24" width="1366" height="744" />
+     </state>
+     <state x="376" y="52" key="#test1/0.24.1366.744@0.24.1366.744" timestamp="1634118395220" />
+-    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1640678044097">
++    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1641281458005">
+       <screen x="0" y="0" width="1366" height="768" />
+     </state>
+-    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1640678044097" />
++    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1641281458005" />
+     <state x="754" y="149" key="FileChooserDialogImpl" timestamp="1640761616743">
+       <screen x="0" y="0" width="1366" height="768" />
+     </state>
+@@ -583,15 +465,15 @@
+     </state>
+     <state width="1323" height="146" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1641268836931" />
+     <state width="1323" height="159" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1635213057650" />
+-    <state x="288" y="19" width="998" height="749" key="SettingsEditor" timestamp="1640678031908">
++    <state x="288" y="19" width="998" height="749" key="SettingsEditor" timestamp="1641281616833">
+       <screen x="0" y="0" width="1366" height="768" />
+     </state>
+     <state x="72" y="12" width="916" height="716" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1632731895668" />
+-    <state x="288" y="19" width="998" height="749" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1640678031908" />
+-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1640663618497">
++    <state x="288" y="19" width="998" height="749" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1641281616833" />
++    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1641281480380">
+       <screen x="0" y="0" width="1366" height="768" />
+     </state>
+-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1640663618497" />
++    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1641281480380" />
+     <state x="363" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1641257931548">
+       <screen x="0" y="0" width="1366" height="768" />
+     </state>
