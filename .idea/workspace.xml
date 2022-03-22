@@ -2,132 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ceefe82-39c0-4a96-8ff6-af2b8c552f58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_01/test9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test12$NumArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_02/test9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test20.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test30.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_03/test9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/leetcode_04/test9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode_05/lc217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode_05/lc217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/leetcode_05/lc217.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode_05/lc217.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -182,21 +61,24 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="leetcode" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode_06" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.lc451">
-    <configuration name="lc205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_06.lc205" />
+  <component name="RunManager" selected="Application.lc653">
+    <configuration name="lc118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.lc118" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_06.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_05.lc209" />
+    <configuration name="lc2043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc2043" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_05.*" />
+          <option name="PATTERN" value="leetcode_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_06.lc290" />
+    <configuration name="lc599" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc599" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_06.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_06.lc451" />
+    <configuration name="lc653" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc653" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_06.*" />
+          <option name="PATTERN" value="leetcode_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc507" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_05.lc507" />
+    <configuration name="lc720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc720" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_05.*" />
+          <option name="PATTERN" value="leetcode_08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lc451" />
-        <item itemvalue="Application.lc205" />
-        <item itemvalue="Application.lc290" />
-        <item itemvalue="Application.lc507" />
-        <item itemvalue="Application.lc209" />
+        <item itemvalue="Application.lc653" />
+        <item itemvalue="Application.lc2043" />
+        <item itemvalue="Application.lc720" />
+        <item itemvalue="Application.lc118" />
+        <item itemvalue="Application.lc599" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +339,51 @@
       <workItem from="1640825163396" duration="2675000" />
       <workItem from="1640855802837" duration="2962000" />
       <workItem from="1640931606171" duration="529000" />
-      <workItem from="1641257864920" duration="9263000" />
+      <workItem from="1641257864920" duration="10830000" />
+      <workItem from="1642381013953" duration="8478000" />
+      <workItem from="1642402191061" duration="969000" />
+      <workItem from="1642467286540" duration="8999000" />
+      <workItem from="1642991778241" duration="11615000" />
+      <workItem from="1643091480105" duration="3464000" />
+      <workItem from="1643158092121" duration="10145000" />
+      <workItem from="1643243990776" duration="9928000" />
+      <workItem from="1643330843374" duration="5180000" />
+      <workItem from="1643418887058" duration="2866000" />
+      <workItem from="1643503661021" duration="3537000" />
+      <workItem from="1644048401231" duration="1959000" />
+      <workItem from="1644195067494" duration="5697000" />
+      <workItem from="1644285563725" duration="2043000" />
+      <workItem from="1644367474227" duration="17603000" />
+      <workItem from="1644474119137" duration="5817000" />
+      <workItem from="1644808664605" duration="11954000" />
+      <workItem from="1644885039667" duration="6447000" />
+      <workItem from="1644970953228" duration="9917000" />
+      <workItem from="1644991442199" duration="3179000" />
+      <workItem from="1645092289271" duration="134000" />
+      <workItem from="1645172631697" duration="1184000" />
+      <workItem from="1645431781551" duration="2422000" />
+      <workItem from="1645490570712" duration="4242000" />
+      <workItem from="1645585883395" duration="3078000" />
+      <workItem from="1645612871951" duration="568000" />
+      <workItem from="1645662802424" duration="11359000" />
+      <workItem from="1645749567883" duration="5037000" />
+      <workItem from="1646009962883" duration="6582000" />
+      <workItem from="1646097098665" duration="10534000" />
+      <workItem from="1646192208256" duration="3092000" />
+      <workItem from="1646269894386" duration="1460000" />
+      <workItem from="1646302123880" duration="669000" />
+      <workItem from="1646354634586" duration="3545000" />
+      <workItem from="1646640813820" duration="6459000" />
+      <workItem from="1646699496620" duration="27130000" />
+      <workItem from="1646959584325" duration="2541000" />
+      <workItem from="1647218250761" duration="4656000" />
+      <workItem from="1647305073794" duration="3401000" />
+      <workItem from="1647395130649" duration="1771000" />
+      <workItem from="1647423806797" duration="357000" />
+      <workItem from="1647477750551" duration="5896000" />
+      <workItem from="1647575125528" duration="2465000" />
+      <workItem from="1647827844353" duration="6451000" />
+      <workItem from="1647909615229" duration="1748000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode练习">
       <created>1621262827498</created>
@@ -494,7 +420,28 @@
       <option name="project" value="LOCAL" />
       <updated>1640678046127</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leetcode练习">
+      <created>1641281391889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641281391889</updated>
+    </task>
+    <task id="LOCAL-00007" summary="leetcode练习">
+      <created>1641281653781</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1641281653781</updated>
+    </task>
+    <task id="LOCAL-00008" summary="leetcode练习">
+      <created>1641281692569</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641281692570</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,14 +456,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1640663507869" />
-    <state x="253" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634118471411">
-      <screen x="0" y="24" width="1366" height="744" />
-    </state>
-    <state x="253" y="50" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.744@0.24.1366.744" timestamp="1634118471411" />
     <state x="423" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640163772927">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="423" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1640163772927" />
+    <state x="701" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1645685697138">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="701" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1645685697138" />
     <state x="328" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1640663387484">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -525,88 +472,90 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="462" y="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.768@0.0.1366.768" timestamp="1640663389027" />
-    <state x="376" y="52" key="#test1" timestamp="1634118395220">
-      <screen x="0" y="24" width="1366" height="744" />
-    </state>
-    <state x="376" y="52" key="#test1/0.24.1366.744@0.24.1366.744" timestamp="1634118395220" />
-    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1640678044097">
+    <state x="413" y="130" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1645664475854">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1640678044097" />
-    <state x="754" y="149" key="FileChooserDialogImpl" timestamp="1640761616743">
+    <state x="413" y="130" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1645664475854" />
+    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1641281690016">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1634024732010" />
-    <state x="754" y="149" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1640761616743" />
-    <state x="463" y="146" key="FileChooserDialogImpl/0.24.1366.744@0.24.1366.744" timestamp="1634118532447" />
-    <state width="977" height="69" key="GridCell.Tab.0.bottom" timestamp="1641281319858">
+    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1641281690016" />
+    <state x="754" y="149" key="FileChooserDialogImpl" timestamp="1643244909465">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1634024733213" />
-    <state width="977" height="69" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1641281319858" />
-    <state width="975" height="179" key="GridCell.Tab.0.bottom/0.24.1366.744@0.24.1366.744" timestamp="1635216903297" />
-    <state width="977" height="69" key="GridCell.Tab.0.center" timestamp="1641281319858">
+    <state x="754" y="149" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1643244909465" />
+    <state width="758" height="208" key="GridCell.Tab.0.bottom" timestamp="1647856803683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1634024733213" />
-    <state width="977" height="69" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1641281319858" />
-    <state width="975" height="179" key="GridCell.Tab.0.center/0.24.1366.744@0.24.1366.744" timestamp="1635216903296" />
-    <state width="977" height="69" key="GridCell.Tab.0.left" timestamp="1641281319858">
+    <state width="758" height="208" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
+    <state width="758" height="208" key="GridCell.Tab.0.center" timestamp="1647856803683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1634024733213" />
-    <state width="977" height="69" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1641281319858" />
-    <state width="975" height="179" key="GridCell.Tab.0.left/0.24.1366.744@0.24.1366.744" timestamp="1635216903296" />
-    <state width="977" height="69" key="GridCell.Tab.0.right" timestamp="1641281319858">
+    <state width="758" height="208" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
+    <state width="758" height="208" key="GridCell.Tab.0.left" timestamp="1647856803682">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1634024733213" />
-    <state width="977" height="69" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1641281319858" />
-    <state width="975" height="179" key="GridCell.Tab.0.right/0.24.1366.744@0.24.1366.744" timestamp="1635216903297" />
-    <state width="1323" height="146" key="GridCell.Tab.1.bottom" timestamp="1641268836931">
+    <state width="758" height="208" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1647856803682" />
+    <state width="758" height="208" key="GridCell.Tab.0.right" timestamp="1647856803683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="146" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1641268836931" />
-    <state width="1323" height="159" key="GridCell.Tab.1.bottom/0.24.1366.744@0.24.1366.744" timestamp="1635213057651" />
-    <state width="1323" height="146" key="GridCell.Tab.1.center" timestamp="1641268836931">
+    <state width="758" height="208" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
+    <state width="758" height="208" key="GridCell.Tab.1.bottom" timestamp="1647856803684">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="146" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1641268836931" />
-    <state width="1323" height="159" key="GridCell.Tab.1.center/0.24.1366.744@0.24.1366.744" timestamp="1635213057650" />
-    <state width="1323" height="146" key="GridCell.Tab.1.left" timestamp="1641268836931">
+    <state width="758" height="208" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1647856803684" />
+    <state width="758" height="208" key="GridCell.Tab.1.center" timestamp="1647856803684">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="146" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1641268836931" />
-    <state width="1323" height="159" key="GridCell.Tab.1.left/0.24.1366.744@0.24.1366.744" timestamp="1635213057650" />
-    <state width="1323" height="146" key="GridCell.Tab.1.right" timestamp="1641268836931">
+    <state width="758" height="208" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1647856803684" />
+    <state width="758" height="208" key="GridCell.Tab.1.left" timestamp="1647856803683">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="146" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1641268836931" />
-    <state width="1323" height="159" key="GridCell.Tab.1.right/0.24.1366.744@0.24.1366.744" timestamp="1635213057650" />
-    <state x="288" y="19" width="998" height="749" key="SettingsEditor" timestamp="1640678031908">
+    <state width="758" height="208" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
+    <state width="758" height="208" key="GridCell.Tab.1.right" timestamp="1647856803684">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="72" y="12" width="916" height="716" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1632731895668" />
-    <state x="288" y="19" width="998" height="749" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1640678031908" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1640663618497">
+    <state width="758" height="208" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1647856803684" />
+    <state x="11" y="0" width="998" height="749" key="SettingsEditor" timestamp="1644388575486">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1640663618497" />
-    <state x="363" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1641257931548">
+    <state x="11" y="0" width="998" height="749" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1644388575486" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1641281695475">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1632731126639" />
-    <state x="363" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1641257931548" />
-    <state x="363" y="216" key="com.intellij.ide.util.TipDialog/0.24.1366.744@0.24.1366.744" timestamp="1635211964619" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1641281695475" />
+    <state x="363" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1646192222541">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1646192222541" />
     <state x="200" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1640164379821">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="200" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1640164379821" />
+    <state x="413" y="148" key="extract.method.dialog" timestamp="1645750696142">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="148" key="extract.method.dialog/0.0.1366.768@0.0.1366.768" timestamp="1645750696142" />
+    <state x="241" y="-1" width="837" height="766" key="find.popup" timestamp="1646960747719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="241" y="-1" width="837" height="766" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1646960747719" />
     <state x="125" y="81" width="600" height="606" key="new project wizard" timestamp="1640663431533">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="641" y="82" width="600" height="606" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1632732178301" />
     <state x="125" y="81" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1640663431533" />
+    <state x="186" y="31" width="921" height="726" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1643244914278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="31" width="921" height="726" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768@0.0.1366.768" timestamp="1643244914278" />
+    <state x="654" y="175" key="run.anything.popup" timestamp="1646192467545">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="654" y="175" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1646192467545" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1644978740426">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1644978740426" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -706,6 +655,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="765" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc300.java</url>
+          <line>29</line>
+          <properties class="leetcode_07.lc300" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="885" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DP/lc198.java</url>
+          <line>19</line>
+          <properties class="DP.lc198" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="908" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode_01/test.java</url>
@@ -3195,6 +3160,221 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc205.java</url>
           <line>6</line>
           <option name="timeStamp" value="836" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc1220.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc1220.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="838" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc32.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="841" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc32.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="843" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc539.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="844" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc219.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="845" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc2047.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="853" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc347.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="858" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc1996.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="862" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_06/lc884.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="863" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc1405.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="864" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc2006.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="865" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc131.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="870" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc540.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="877" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc540.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="878" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc1719.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="879" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc51.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="880" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc51.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="881" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc51.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="882" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc917.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="883" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc300.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="884" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc376.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="886" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc376.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc376.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="889" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc455.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="890" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc435.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="891" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc435.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="892" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DP/lc509.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="893" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DP/lc1137.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="894" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/shujujiegou/lc53.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="896" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_07/lc6.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="897" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/shujujiegou/lc88.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="898" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DP/lc70.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="900" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DP/lc746.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="903" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc2104.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="904" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc504.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="906" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DP/lc198.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="907" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc198.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="930" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc198.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="931" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc599.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="937" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc599.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="938" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DP/lc118.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="942" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc653.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="952" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

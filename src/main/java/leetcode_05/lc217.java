@@ -14,12 +14,9 @@ public class lc217 {
         if(nums.length <= 1)
             return false;
         Arrays.sort(nums);
-        Set set = new HashSet();
-        for(int i=0; i<nums.length; i++){
-            set.add(nums[i]);
-            if(set.size() != i+1)
+        for(int i=0; i<nums.length-1; i++)
+            if(nums[i] == nums[i+1])
                 return true;
-        }
         return false;
     }
 }
