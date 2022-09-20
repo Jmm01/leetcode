@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ceefe82-39c0-4a96-8ff6-af2b8c552f58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode_05/lc217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode_05/lc217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/leetcode_05/lc217.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/leetcode_05/lc217.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +13,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -31,6 +29,12 @@
     <auto-save>true</auto-save>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\JMM\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\JMM\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -51,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot/sell" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot/luckymoney" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +65,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -71,14 +75,24 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="leetcode_06" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jdk8" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.lc653">
-    <configuration name="lc118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.lc118" />
+  <component name="RunManager" selected="Application.lc961">
+    <configuration name="S" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S" />
+      <module name="01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc01_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_09.lc01_05" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="leetcode_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc2043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc2043" />
+    <configuration name="lc944" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_09.lc944" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_08.*" />
+          <option name="PATTERN" value="leetcode_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc599" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc599" />
+    <configuration name="lc953" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_09.lc953" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="leetcode_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,25 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lc653" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc653" />
+    <configuration name="lc961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode_09.lc961" />
       <module name="01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode_08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lc720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode_08.lc720" />
-      <module name="01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode_08.*" />
+          <option name="PATTERN" value="leetcode_09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lc653" />
-        <item itemvalue="Application.lc2043" />
-        <item itemvalue="Application.lc720" />
-        <item itemvalue="Application.lc118" />
-        <item itemvalue="Application.lc599" />
+        <item itemvalue="Application.lc961" />
+        <item itemvalue="Application.lc953" />
+        <item itemvalue="Application.lc01_05" />
+        <item itemvalue="Application.S" />
+        <item itemvalue="Application.lc944" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +384,26 @@
       <workItem from="1647477750551" duration="5896000" />
       <workItem from="1647575125528" duration="2465000" />
       <workItem from="1647827844353" duration="6451000" />
-      <workItem from="1647909615229" duration="1748000" />
+      <workItem from="1647909615229" duration="3308000" />
+      <workItem from="1647995825514" duration="7094000" />
+      <workItem from="1648170079401" duration="2684000" />
+      <workItem from="1648427703495" duration="19002000" />
+      <workItem from="1648773217948" duration="4678000" />
+      <workItem from="1649205737766" duration="654000" />
+      <workItem from="1649207747148" duration="29000" />
+      <workItem from="1649207919538" duration="9566000" />
+      <workItem from="1649648515713" duration="11409000" />
+      <workItem from="1649814065765" duration="7018000" />
+      <workItem from="1649897309029" duration="4441000" />
+      <workItem from="1650242950394" duration="2027000" />
+      <workItem from="1650329785400" duration="6377000" />
+      <workItem from="1650437073350" duration="591000" />
+      <workItem from="1650534025089" duration="1350000" />
+      <workItem from="1650854339342" duration="17014000" />
+      <workItem from="1652237326488" duration="14614000" />
+      <workItem from="1652662122273" duration="2946000" />
+      <workItem from="1653093412377" duration="3330000" />
+      <workItem from="1653531677697" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode练习">
       <created>1621262827498</created>
@@ -441,7 +461,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641281692570</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="leetcode练习">
+      <created>1647934895758</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647934895758</updated>
+    </task>
+    <task id="LOCAL-00010" summary="leetcode练习">
+      <created>1647935059992</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1647935059992</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,110 +486,86 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode练习" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="42" key="#Project_Structure" timestamp="1640663507869">
+    <state x="701" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1652423184162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="42" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1640663507869" />
-    <state x="423" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640163772927">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="423" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1640163772927" />
-    <state x="701" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1645685697138">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="701" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1645685697138" />
-    <state x="328" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1640663387484">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="328" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1640663387484" />
-    <state x="462" y="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1640663389027">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="462" y="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.768@0.0.1366.768" timestamp="1640663389027" />
+    <state x="701" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1652423184162" />
     <state x="413" y="130" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1645664475854">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="130" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1645664475854" />
-    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1647934887694">
+    <state x="266" y="0" key="CommitChangelistDialog2" timestamp="1647935772347">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1647934887694" />
-    <state x="754" y="149" key="FileChooserDialogImpl" timestamp="1643244909465">
+    <state x="266" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1647935772347" />
+    <state x="754" y="149" key="FileChooserDialogImpl" timestamp="1649663835693">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="754" y="149" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1643244909465" />
-    <state width="758" height="208" key="GridCell.Tab.0.bottom" timestamp="1647856803683">
+    <state x="754" y="149" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1649663835693" />
+    <state width="820" height="192" key="GridCell.Tab.0.bottom" timestamp="1653097993969">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
-    <state width="758" height="208" key="GridCell.Tab.0.center" timestamp="1647856803683">
+    <state width="820" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1653097993969" />
+    <state width="820" height="192" key="GridCell.Tab.0.center" timestamp="1653097993969">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
-    <state width="758" height="208" key="GridCell.Tab.0.left" timestamp="1647856803682">
+    <state width="820" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1653097993969" />
+    <state width="820" height="192" key="GridCell.Tab.0.left" timestamp="1653097993969">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1647856803682" />
-    <state width="758" height="208" key="GridCell.Tab.0.right" timestamp="1647856803683">
+    <state width="820" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1653097993969" />
+    <state width="820" height="192" key="GridCell.Tab.0.right" timestamp="1653097993969">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
-    <state width="758" height="208" key="GridCell.Tab.1.bottom" timestamp="1647856803684">
+    <state width="820" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1653097993969" />
+    <state width="820" height="232" key="GridCell.Tab.1.bottom" timestamp="1652762418605">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1647856803684" />
-    <state width="758" height="208" key="GridCell.Tab.1.center" timestamp="1647856803684">
+    <state width="820" height="232" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1652762418605" />
+    <state width="820" height="232" key="GridCell.Tab.1.center" timestamp="1652762418605">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1647856803684" />
-    <state width="758" height="208" key="GridCell.Tab.1.left" timestamp="1647856803683">
+    <state width="820" height="232" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1652762418605" />
+    <state width="820" height="232" key="GridCell.Tab.1.left" timestamp="1652762418605">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1647856803683" />
-    <state width="758" height="208" key="GridCell.Tab.1.right" timestamp="1647856803684">
+    <state width="820" height="232" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1652762418605" />
+    <state width="820" height="232" key="GridCell.Tab.1.right" timestamp="1652762418605">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="758" height="208" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1647856803684" />
-    <state x="11" y="0" width="998" height="749" key="SettingsEditor" timestamp="1644388575486">
+    <state width="820" height="232" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1652762418605" />
+    <state x="323" y="81" key="NewModule_or_Project.wizard" timestamp="1649663843054">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="11" y="0" width="998" height="749" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1644388575486" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1647934914188">
+    <state x="323" y="81" key="NewModule_or_Project.wizard/0.0.1366.768@0.0.1366.768" timestamp="1649663843054" />
+    <state x="11" y="0" width="998" height="749" key="SettingsEditor" timestamp="1649664019566">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1647934914188" />
+    <state x="11" y="0" width="998" height="749" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1649664019566" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1647935062505">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1647935062505" />
     <state x="363" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1646192222541">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="363" y="198" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1646192222541" />
-    <state x="200" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1640164379821">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="200" y="120" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768@0.0.1366.768" timestamp="1640164379821" />
     <state x="413" y="148" key="extract.method.dialog" timestamp="1645750696142">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="148" key="extract.method.dialog/0.0.1366.768@0.0.1366.768" timestamp="1645750696142" />
-    <state x="241" y="-1" width="837" height="766" key="find.popup" timestamp="1646960747719">
+    <state x="241" y="-1" width="837" height="766" key="find.popup" timestamp="1651042098340">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="241" y="-1" width="837" height="766" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1646960747719" />
-    <state x="125" y="81" width="600" height="606" key="new project wizard" timestamp="1640663431533">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="125" y="81" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1640663431533" />
-    <state x="186" y="31" width="921" height="726" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1643244914278">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="186" y="31" width="921" height="726" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768@0.0.1366.768" timestamp="1643244914278" />
+    <state x="241" y="-1" width="837" height="766" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1651042098340" />
     <state x="654" y="175" key="run.anything.popup" timestamp="1646192467545">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="654" y="175" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1646192467545" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1644978740426">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1652429126631">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1644978740426" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1652429126631" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -3375,6 +3385,111 @@
           <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc653.java</url>
           <line>8</line>
           <option name="timeStamp" value="952" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc172.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="954" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc693.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="956" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc2024.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="957" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc404.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="958" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_08/lc728.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="960" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc357.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="967" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc806.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="970" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc821.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="971" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc398.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="973" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc883.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="974" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc1652.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="977" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc1652.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="978" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc1652.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="979" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc417.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="983" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc944.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="985" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/S.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="986" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc01_05.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="988" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc01_05.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="989" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc01_05.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="990" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc01_05.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="991" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode_09/lc953.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="993" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
