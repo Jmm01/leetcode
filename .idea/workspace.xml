@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ceefe82-39c0-4a96-8ff6-af2b8c552f58" name="Default Changelist" comment="leetcode练习">
-      <change afterPath="$PROJECT_DIR$/src/main/java/F.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/S.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdk8/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jdk8/stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc172.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc2024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc263.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc404.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc412.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc440.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc453.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc459.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc661.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc693.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_08/lc728.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/RandomizedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc01_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc1652.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc1672.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc310.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc357.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc386.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc398.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc417.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc796.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc806.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc821.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc883.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc944.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc953.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc954.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode_09/lc961.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/F.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/S.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/jdk8/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/jdk8/stream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc172.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc2024.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc2038.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc263.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc404.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc412.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc440.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc453.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc459.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc661.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc693.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_08/lc728.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/RandomizedSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc01_05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc1652.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc1672.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc310.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc357.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc386.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc398$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc398.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc417.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc796.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc80.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc806.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc821.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc883.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc944.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc953.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc954.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/leetcode_09/lc961.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0ceefe82-39c0-4a96-8ff6-af2b8c552f58" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -477,7 +408,7 @@
       <workItem from="1652662122273" duration="2946000" />
       <workItem from="1653093412377" duration="3330000" />
       <workItem from="1653531677697" duration="575000" />
-      <workItem from="1663638178807" duration="1972000" />
+      <workItem from="1663638178807" duration="2115000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode练习">
       <created>1621262827498</created>
@@ -563,7 +494,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663639055569</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="leetcode练习">
+      <created>1663640277472</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663640277472</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,18 +512,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode练习" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1663640093338">
+    <state x="275" y="42" key="#Notifications" timestamp="1663640324308">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663640093338" />
+    <state x="275" y="42" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1663640324308" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1663640273045">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1663640273045" />
     <state x="184" y="26" key="SettingsEditor" timestamp="1663639176273">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1663639176273" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1663640171398">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1663640279478">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1663640171398" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1663640279478" />
     <state x="475" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1663639594972">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
